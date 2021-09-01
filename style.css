@@ -36,7 +36,6 @@ nav .wrapper{
   position: absolute;
   top: -10px;
   left: 40%;
-	margin-left: 3%;
 }
 .wrapper .nav-links{
   display: inline-flex;
