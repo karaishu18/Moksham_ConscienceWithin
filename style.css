@@ -157,7 +157,7 @@ nav .wrapper{
 }
 @media screen and (max-width: 970px) {
   .wrapper .logo a{
-	  align: center;
+	  margin-right: 50%;
 	}	  
   #image{
 	  width: 100%;
