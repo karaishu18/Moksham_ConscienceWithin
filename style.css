@@ -463,6 +463,9 @@ body { font-family: sans-serif; }
 	margin-left: -10%;
 
   }
+  .design{
+    margin-left: -50px;
+  }	
   .col4{
     margin-left: 40px;
     margin-right: 40px;
