@@ -460,7 +460,7 @@ body { font-family: sans-serif; }
 .row4{
     flex-direction: column;
 	width: 100%;
-	margin-left: 0%;
+	margin-left: -10%;
 
   }
   .col4{
