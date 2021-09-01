@@ -459,6 +459,8 @@ body { font-family: sans-serif; }
 @media only screen and (max-width: 1000px) {
 .row4{
     flex-direction: column;
+	width: 100%;
+
   }
   .col4{
     margin-left: 40px;
