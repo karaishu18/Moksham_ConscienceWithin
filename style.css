@@ -157,7 +157,7 @@ nav .wrapper{
 }
 @media screen and (max-width: 970px) {
   .wrapper .logo a{
-	  margin-left: -30%;
+	  margin-left: -5%;
 	}	  
   #image{
 	  width: 100%;
@@ -463,7 +463,7 @@ body { font-family: sans-serif; }
 
   }
 .design{
-    margin-left: -70px;
+    margin-left: -50px;
 }	
   .col4{
     margin-left: 40px;
