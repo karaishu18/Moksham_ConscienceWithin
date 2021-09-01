@@ -460,11 +460,10 @@ body { font-family: sans-serif; }
 .row4{
     flex-direction: column;
 	width: 100%;
-	margin-left: -10%;
 
   }
   .design{
-    margin-left: -70px;
+    margin-left: -60px;
   }	
   .col4{
     margin-left: 40px;
